@@ -20,7 +20,7 @@ These are projects currently under development. If you're interested in contribu
 ### ✅ Completed Projects
 These projects have been successfully completed and are available for public use or reference.
 
-- **[Sam's To Go](https://samstogoislavista)** – An end to end website with a Home, Menu, and Catering page for Sam's To Go (local business in Isla Vista).
+- **[Sam's To Go](https://samstogoislavista.com)** – An end to end website with a Home, Menu, and Catering page for Sam's To Go (local business in Isla Vista).
 
 ## 💡 Get Involved
 We’re always looking for passionate students, engineers, and industry professionals to **contribute, mentor, and collaborate**!
