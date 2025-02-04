@@ -2,16 +2,12 @@
 
 Welcome to the **ACM.Industry** GitHub organization! We are a student-led initiative at UC Santa Barbara dedicated to bridging the gap between academia and industry through **collaborative projects, mentorship, and hands-on experience**. Our goal is to provide students with real-world software, hardware, and AI-related challenges that help them grow professionally while contributing to impactful projects.
 
----
-
 ## 📌 What We Do
 
 - **Industry-Focused Projects** – We work on real-world problems inspired by industry needs, often in collaboration with professionals.
 - **Mentorship & Networking** – Members gain mentorship from experienced peers and industry leaders.
 - **Skill Development** – We emphasize learning by doing, providing hands-on experience with software engineering, AI, cloud computing, and more.
 - **Open-Source Contributions** – Many of our projects are open-source, allowing students to contribute and build their portfolios.
-
----
 
 ## 📂 Project Status
 
@@ -26,8 +22,6 @@ These projects have been successfully completed and are available for public use
 
 - **[Sam's To Go](https://samstogoislavista)** – An end to end website with a Home, Menu, and Catering page for Sam's To Go (local business in Isla Vista).
 
----
-
 ## 💡 Get Involved
 We’re always looking for passionate students, engineers, and industry professionals to **contribute, mentor, and collaborate**!
 
@@ -36,8 +30,6 @@ We’re always looking for passionate students, engineers, and industry professi
 2. Email amandesai@ucsb.edu.
 3. Join our discussions on **[Discord]** ([ACM @ UCSB](https://discord.gg/8n8ySxxQUd)).
 4. Attend our **weekly meetings** (schedule TBD).
-
----
 
 ## 🤝 Contact & Community
 - **Website**: [industry.ucsbacm.com](https://industry.ucsbacm.com)
