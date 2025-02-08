@@ -28,7 +28,7 @@ We’re always looking for passionate students, engineers, and industry professi
 ### 🔹 How to Contribute:
 1. Check out our **[website](https://industry.ucsbacm.com/join.html)** for ways to join.
 2. Email amandesai@ucsb.edu.
-3. Join our discussions on **[Discord]**([ACM @ UCSB](https://discord.gg/8n8ySxxQUd)).
+3. Join our discussions on **[Discord]([ACM @ UCSB](https://discord.gg/8n8ySxxQUd))**.
 4. Attend our **weekly meetings** (schedule TBD).
 
 ## 🤝 Contact & Community
