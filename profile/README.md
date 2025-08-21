@@ -12,15 +12,10 @@ Welcome to the **ACM.Industry** GitHub organization! We are a student-led initia
 ## 💡 Get Involved
 We’re always looking for passionate students, engineers, and industry professionals to **contribute, mentor, and collaborate**!
 
-### 🔹 How to Contribute:
+### 🔹 Where to Start:
 1. Check out our **[website](https://acmindustry.org/join)** for ways to join.
-2. Email amandesai@ucsb.edu.
-3. Join our discussions on Discord: **([ACM @ UCSB](https://discord.gg/8n8ySxxQUd))**.
+2. Join our Discord: **([ACM @ UCSB](https://discord.gg/8n8ySxxQUd))**.
+3. Email amandesai@ucsb.edu.
 4. Attend our **weekly meetings** (schedule TBD).
-
-## 🤝 Contact & Community
-- **Website**: [acmindustry.org](https://acmindustry.org)
-- **Slack/Discord**: [Join Here](https://discord.gg/8n8ySxxQUd)
-- **Email**: amandesai@ucsb.edu
 
 We’d love to hear from you and collaborate on exciting projects! 🚀
